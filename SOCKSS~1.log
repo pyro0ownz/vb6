@@ -1,0 +1,8 @@
+Line 32: Class MSComDlg.CommonDialog of control go was not a loaded control class.
+Line 123: Class MSWinsockLib.Winsock of control sock was not a loaded control class.
+Line 35: The property name _ExtentX in go is invalid.
+Line 36: The property name _ExtentY in go is invalid.
+Line 37: The property name _Version in go is invalid.
+Line 127: The property name _ExtentX in sock is invalid.
+Line 128: The property name _ExtentY in sock is invalid.
+Line 129: The property name _Version in sock is invalid.
